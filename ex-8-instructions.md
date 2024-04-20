@@ -77,4 +77,14 @@ There are 2 places where the code needs updating:
 - updating the outout (with the name and phones of people to contact).
 
 
-
+Answer:
+```
+Name: John Smith  Phone: +1 (555) 123-4567
+Name: Michael Brown  Phone: +1 (555) 345-6789
+Name: Daniel Lopez  Phone: +1 (555) 345-6789
+Name: Jason Lewis  Phone: +1 (555) 789-0123
+Name: Brandon Hill  Phone: +1 (555) 567-8901
+Name: Christina Hernandez  Phone: +1 (555) 234-5678
+Name: Nathan Anderson  Phone: +1 (555) 789-0123
+Name: Amanda Lopez  Phone: +1 (555) 012-3456
+```
